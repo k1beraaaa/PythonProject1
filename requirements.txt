@@ -1,0 +1,4 @@
+aiogram>=3.4
+openpyxl>=3.1
+python-dotenv>=1.0
+gspread>=6.0

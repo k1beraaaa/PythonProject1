@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# секреты
+settings.env
+.env
+service_account.json
+
+# данные клиентов
+zayavki.xlsx
+bookings.json
